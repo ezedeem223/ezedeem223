@@ -5,6 +5,8 @@ I build reproducible applied AI systems across computer vision, medical AI, remo
 
 My current portfolio is centered on five finalized Python-first projects. Each repository emphasizes clear documentation, reproducible structure, evidence tracking, limitation awareness, and responsible project framing.
 
+**Portfolio website:** [mohamad-sabbagh-ai-research-portfolio--za9699185.replit.app](https://mohamad-sabbagh-ai-research-portfolio--za9699185.replit.app)
+
 ---
 
 ## Featured AI/ML Projects
