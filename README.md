@@ -42,13 +42,13 @@ My current portfolio is centered on five finalized Python-first projects. Each r
 
 ---
 
-## Portfolio Command Center
+## Research Dossier
 
-A detailed research portfolio command center is available here:
+A detailed research dossier for the five projects is available here:
 
-[AI Research Portfolio Command Center](https://github.com/ezedeem223/mohamad-sabbagh-ai-research-portfolio)
+[AI Research Portfolio — Research Dossier](https://github.com/ezedeem223/mohamad-sabbagh-ai-research-portfolio)
 
-It organizes the five projects, safe claims, CV wording, professor reading paths, and final packaging steps.
+It provides per-project briefs, evidence traceability for every claim, a structured reading guide for academic reviewers, and my research statement.
 
 ---
 
